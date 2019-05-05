@@ -1,0 +1,14 @@
+E:\work\projects\c#_projects\midis_projects\FileManager\FileManager\bin\Debug\FileManager.exe.config
+E:\work\projects\c#_projects\midis_projects\FileManager\FileManager\bin\Debug\FileManager.exe
+E:\work\projects\c#_projects\midis_projects\FileManager\FileManager\bin\Debug\FileManager.pdb
+E:\work\projects\c#_projects\midis_projects\FileManager\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
+E:\work\projects\c#_projects\midis_projects\FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+E:\work\projects\c#_projects\midis_projects\FileManager\FileManager\obj\Debug\FileManager.exe
+E:\work\projects\c#_projects\midis_projects\FileManager\FileManager\obj\Debug\FileManager.pdb
+E:\work\projects\c#_projects\main_projects\FileManager - консоль\FileManager\bin\Debug\FileManager.exe.config
+E:\work\projects\c#_projects\main_projects\FileManager - консоль\FileManager\bin\Debug\FileManager.exe
+E:\work\projects\c#_projects\main_projects\FileManager - консоль\FileManager\bin\Debug\FileManager.pdb
+E:\work\projects\c#_projects\main_projects\FileManager - консоль\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
+E:\work\projects\c#_projects\main_projects\FileManager - консоль\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+E:\work\projects\c#_projects\main_projects\FileManager - консоль\FileManager\obj\Debug\FileManager.exe
+E:\work\projects\c#_projects\main_projects\FileManager - консоль\FileManager\obj\Debug\FileManager.pdb
